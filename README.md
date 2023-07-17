@@ -1,1 +1,1 @@
-Just a Couple of things i did when starting out :)
+Just a Couple of things I did when starting to code in python :)
